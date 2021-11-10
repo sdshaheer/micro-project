@@ -1,0 +1,130 @@
+*{
+	margin:0px;
+	padding:0px;	
+}
+body{
+	background:url('https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?size=626&ext=jpg');
+	background-size:cover;
+}
+
+.information h1{
+  text-align:center;
+  padding:20px;
+  background-color:lightgreen;
+}
+
+.information .first{
+	float:left;
+	background-color:green;
+	width:400px;
+	height:400px;
+	margin:45px;
+	padding:25px;
+	margin-top:5px;
+	border-radius:10px;
+
+}
+
+.gap{
+	margin:10px;
+}
+
+td{
+   margin:20px;
+   padding:10px;
+   width:150px;
+   font-size:20px;
+   font-weight:bold;
+}
+.information .second{
+	float:right;
+	margin-right:-900px;
+	margin-top:-350px;
+	background:pink;
+	width:800px;
+	height:80px;
+	border-radius:10px;
+	padding-top:10px;
+	text-align:center;
+}
+
+
+.information .third{
+	float:right;
+	margin-right:-900px;
+	margin-top:-250px;
+	background:pink;
+	width:800px;
+	height:80px;
+	border-radius:10px;
+	padding-top:10px;
+	text-align:center;
+}
+
+
+.information .fourth{
+	float:right;
+	margin-right:-900px;
+	margin-top:-150px;
+	background:pink;
+	width:800px;
+	height:80px;
+	border-radius:10px;
+	padding-top:10px;
+	text-align:center;
+}
+
+
+.information .fifth{
+	float:right;
+	margin-right:-900px;
+	margin-top:-50px;
+	background:pink;
+	width:800px;
+	height:80px;
+	border-radius:10px;
+	padding-top:10px;
+	text-align:center;
+}
+
+div.common {
+	padding:20px;
+}
+label{
+	float:left;
+	width:200px;
+	font-size:20px; 
+}
+#submit{  
+    width:200px;
+    padding:10px;
+    font-size:16px;
+    font-family:sans-serif;
+    font-weight:600;
+    border-radius:5px;
+    background-color:rgba(250,100,0,0.8);
+    color:#fff;
+    border:1px solid rgba(255,255,0.3);
+    box-shadow:inset 1px 1px 5px rgba(0,0,0,0.3);
+    cursor:pointer;
+}
+
+#logouts{
+	width:200px;
+    padding:10px;
+    margin-top:10px;
+    margin-left:1250px;
+    font-size:16px;
+    font-family:sans-serif;
+    font-weight:600;
+    border-radius:5px;
+    background-color:rgba(250,100,0,0.8);
+    color:#fff;
+    border:1px solid rgba(255,255,0.3);
+    box-shadow:inset 1px 1px 5px rgba(0,0,0,0.3);
+    cursor:pointer;
+}
+
+img{
+	width:50px;
+}
